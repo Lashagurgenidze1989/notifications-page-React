@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "author": "Mark Webber",
+    "action": "reacted to your recent post",
+    "link": "My first tournament today!",
+    "time": "1m ago",
+    "hasBeenRead": false
+  },
+  {
+    "id": "2",
+    "author": "Angela Gray",
+    "action": "followed you",
+    "link": "",
+    "time": "5m ago",
+    "hasBeenRead": false
+  },
+  {
+    "id": "3",
+    "author": "Jacob Thompson",
+    "action": "has joined your group",
+    "link": "Chess Club",
+    "time": "1 day ago",
+    "hasBeenRead": false
+  },
+  {
+    "id": "4",
+    "author": "Rizky Hasanuddin",
+    "action": "sent you a private message",
+    "link": "",
+    "private": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+    "time": "5 days ago",
+    "hasBeenRead": true
+  },
+  {
+    "id": "5",
+    "author": "Kimberly Smith",
+    "action": "commented on your picture",
+    "link": "./images/image-chess.webp",
+    "time": "1 week ago",
+    "hasBeenRead": true
+  },
+  {
+    "id": "6",
+    "author": "Nathan Peterson",
+    "action": "reacted to your recent post",
+    "link": "5 end-game strategies to increase your win rate",
+    "time": "2 weeks ago",
+    "hasBeenRead": true
+  },
+  {
+    "id": "7",
+    "author": "Anna Kim",
+    "action": "left the group",
+    "link": "Chess Club",
+    "time": "2 weeks ago",
+    "hasBeenRead": true
+  }
+]
